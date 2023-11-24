@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+.section1{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+.section1__name{
+    font-size: 50px;   
+}
+.section1__position{
+    margin-top: 20px;
+    font-size: 30px;
+}
+.section1__contact{
+    margin-top: 50px;
+    background-color: orangered;
+    font-size: 20px;
+    padding-right:10px ;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    
+    
+}
+.section2{
+    margin: 10px;
+}
+.section2__about{
+    margin-top: 20px;
+}
+.section2__para{
+    margin-top: 10px;
+}
+.section3{
+    background-color:rgb(109, 109, 238) ;
+    color:black;
+    display: inline-block;
+    margin-top: 10px;
+    margin: 10px;
+    padding-left: 10px;
+    border-radius: 10px;
+    vertical-align: top;
+    height: 163px;
+    
+}
+.section3__three{
+    margin-top: 10px;
+    font-size: 28px;
+
+    
+}
+.section3__skill{
+    margin-top: 10px;
+    list-style-type: none;
+
+    
+}
+.section4{
+    background-color: rgb(255, 86, 25);
+    color: black;
+    margin: 10px;
+    padding-left: 10px;
+    display: inline-block;
+    border-radius: 10px; 
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+.section4__project{
+    margin-top: 10px;
+}
+.section4__h1{
+    margin-top: 10px;
+    list-style-type: none;
+}
+.section4__h2{
+    margin-top: 10px;
+}
+.bottom{
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+    
+}
+.bottom__media{
+
+}
+.bottom__john{
+    padding-top: 10px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.headerr{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.headerr__name{
+    font-size: 60px;
+}
+.headerr__position{
+    font-size: 30px;
+    padding-top: 10px;
+}
+.headerr__homelink{
+    font-size: 20px;
+    background-color: orange;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    text-decoration: none;
+    
+}
+.fooder{
+    background-color: black;
+    color: white;
+   padding-bottom: 10px;
+    padding: 10px;
+}
+.fooder__media{
+
+}
+.fooder__john{
+    padding-top: 10px;
+    
+}
+.fooder instagram{
+    padding-left: 10px;
+}
+.fooder linkedin{
+    padding-left: 10px;
+}
